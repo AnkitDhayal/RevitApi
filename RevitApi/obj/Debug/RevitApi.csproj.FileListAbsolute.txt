@@ -1,0 +1,6 @@
+D:\RevitApi\bin\Debug\RevitApi.dll
+D:\RevitApi\bin\Debug\RevitApi.pdb
+D:\RevitApi\obj\Debug\RevitApi.csproj.AssemblyReference.cache
+D:\RevitApi\obj\Debug\RevitApi.csproj.CoreCompileInputs.cache
+D:\RevitApi\obj\Debug\RevitApi.dll
+D:\RevitApi\obj\Debug\RevitApi.pdb
